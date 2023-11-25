@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<p style="color: #E76F51;">welcome to my page</p>
+<div style="border: 2px dotted slategrey; text-align: center; padding: 1cm;">
+    <p class="first">home</p>
+   <p class="sec">about us </p>
+   <p class="th">contact us </p>
+</div>
+<p>oooooooooo</p>
+<a>hi hi hi</a>
+<br>
+<hr>
+<div style="background-color: cornflowerblue;">
+    hi
+    bye
+</div>
+</body>
+</html>
