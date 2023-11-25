@@ -1,0 +1,20 @@
+
+body {
+    background-color: aquamarine;
+}
+p {color: blue;
+font-style: oblique;
+font-weight: bold;}
+.first{
+    color: chocolate;
+    font-size: medium;
+
+}
+.sec{
+
+    background-color: aquamarine;
+}
+.th{
+   border: 1cqb;
+   font-weight: bolder;
+}
