@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"> <!--linked with style.css p1-->
+</head>
+<p style="color: #E76F51;">welcome to my page</p>
+<div class="logo">
+    <img src="Screenshots/logo.PNG" height="30px" alt="LOGO">
+</div>
+<hr>
+<div style="border: 2px dotted slategrey; text-align: center; padding: 1cm;">
+    <a href="ICT.html">home</a>
+   <a href="https://www.instagram.com/">about us </a>
+   <a href="contactus.html">contact us </a>
+
+</div>
+<hr>
+<div>
+   <p>hi</p>
+   <p>bye </p>
+   </div>
+<hr>
+<div class="table">
+
+    <table width=60px;border="2m">
+        <tr><td>name</td><td>adress</td><td>contact</td></tr>
+        <tr><td>ali</td><td>xyz</td><td>0000</td></tr>
+        <tr><td>abbas</td><td>hii</td><td>1111</td></tr>
+    </table>
+</div>
+</body>
+</html>
