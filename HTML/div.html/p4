@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"> <!--linked with style.css p1-->
+</head>
+<body>
+<div class="table">
+
+    <table width=60px;border="2m">
+        <tr><td>name</td><td>adress</td><td>contact</td></tr>
+        <tr><td>ali</td><td>xyz</td><td>0000</td></tr>
+        <tr><td>abbas</td><td>hii</td><td>1111</td></tr>
+    </table>
+</div>
+<ol type="a">
+    <li>snapchat</li>
+    <li>instagram</li>
+    <li>whatsapp</li>
+</ol>
+<ul type="square" >
+    <li>snapchat</li>
+    <li>instagram</li>
+    <li>whatsapp</li>
+</ul>
+<form>
+    <label>First Name</label> <br>
+    <textarea rows="2" cols="5"></textarea>
+    <label>Ph.No</label> <br>
+    <textarea> </textarea> <br>
+    <label for="first">FIRST NAME</label><br>
+    <input type="text" id="first name" name="first name "> <br>
+    <label>Last Name</label> <br>
+    <input type="text" id="last name" name="name "> <br>
+    <label>Password</label>
+    <input type="password" id="password" name="password"> <br>
+    <label>email</label> <br>
+    <input type="email" id="email" name="mail"> <br>
+</form>
+</body>
+</html>
