@@ -49,6 +49,8 @@
     <input type="checkbox" id="" name="" > physics <br>
     <input type="checkbox" id="" name="" > english  <br>
     <input type="checkbox" id="" name="" > chemistry <br>
+    rating
+    <input type="range" >
 </form>
 </body>
 </html>
