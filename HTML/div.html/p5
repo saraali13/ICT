@@ -50,7 +50,8 @@
     <input type="checkbox" id="" name="" > english  <br>
     <input type="checkbox" id="" name="" > chemistry <br>
     rating
-    <input type="range" >
+    <input type="range" > <br>
+<input type="range" min="0" max="100" value="50" id="my range" >
 </form>
 </body>
 </html>
